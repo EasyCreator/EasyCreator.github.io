@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+EasyCreator is a developer tool.
+
+It tries to speed up the developing process of custom components, modules, plugins, libraries, templates, CLI- and Web Applications.
+
+You can create a 'frame' for your extension and an installable zip package with just a few 'clicks'.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+https://extensions.joomla.org/extensions/extension/miscellaneous/development/easycreator/
