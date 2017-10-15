@@ -9,6 +9,6 @@ I hope this will make the extension creation more easier. It should also improve
 
 Extensions will be packed into packages that can be installed from within EasyCreator.
 
-The repository can be found here: https://github.com/EasyCreator/templates
+The repository can be found here: [EasyCreator/templates](https://github.com/EasyCreator/templates)
 
 This feature will be available with version 0.0.26
