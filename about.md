@@ -12,4 +12,4 @@ You can create a 'frame' for your extension and an installable zip package with 
 
 ### More Information
 
-https://extensions.joomla.org/extensions/extension/miscellaneous/development/easycreator/
+[extensions.joomla.org/easycreator](https://extensions.joomla.org/extensions/extension/miscellaneous/development/easycreator/)
