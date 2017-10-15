@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Templates are gone
+title: Languages are gone
 ---
 
 I have decided to strip out all the EasyCreator extension templates into a special repository.
