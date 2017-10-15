@@ -3,7 +3,7 @@ layout: post
 title: Languages are gone
 ---
 
-I have decided to strip out all the EasyCreator extension templates into a special repository.
+I have decided to strip out all the EasyCreator language files into a special repository.
 
 1) First reason is the amount of maintenance required.
 1) Second is the fact that I believe that all developers are capable of understanding the english terms used in EasyCreator `=;D`
